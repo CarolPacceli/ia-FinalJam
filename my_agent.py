@@ -17,3 +17,4 @@ class Agent:
         action = random.choice(actions)
 
         return action
+
